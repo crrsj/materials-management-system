@@ -1,4 +1,5 @@
-# 🚀 Materials Management System - Projeto Projedata
+
+🚀 Materials Management System - Industrial Cost & Inventory Management
 
 Este projeto é uma solução full-stack desenvolvida para a gestão de produção industrial, focada na precisão de cálculos de custos de matéria-prima e eficiência de processamento. 
 A aplicação demonstra o uso de tecnologias modernas para resolver problemas reais de logística e manufatura.
@@ -70,17 +71,7 @@ Para demonstrar a robustez do Backend desenvolvido, a documentação Swagger est
 
 ---
 
-## 🤝 Agradecimentos e Objetivo Profissional
-
-**À Equipe Projedata,**
-
-Gostaria de agradecer imensamente a oportunidade de apresentar este projeto. Desenvolver esta solução foi uma excelente oportunidade para aplicar conceitos avançados como **Virtual Threads no Java 21** e a reatividade do **Vue.js 3**.
-
- Tenho grande entusiasmo pela possibilidade de integrar o time da **Projedata**, colaborando com soluções robustas e aprendendo com a excelência técnica de vocês.
-
-Espero que a clareza deste projeto demonstre meu fit cultural e técnico com a empresa. Estou pronto para os próximos desafios!
-
-Atenciosamente,
+ Desenvolver esta solução foi uma excelente oportunidade para aplicar conceitos avançados como **Virtual Threads no Java 21** e a reatividade do **Vue.js 3**.
 
 **Carlos Roberto Ribeiro Santos Junior**
 
