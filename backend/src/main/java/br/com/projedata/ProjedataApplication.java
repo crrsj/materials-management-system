@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 @OpenAPIDefinition(
 		info = @Info(
-				title = " Practical Test Projedata ",
+				title = "Materials Management System ",
 				version = "1.0",
 				description = "Application for managing inputs and optimizing industrial production.",
 				contact = @Contact(name = "Carlos Roberto ribeiro Santos Junior", email = "crrsj1@gmail.com")
